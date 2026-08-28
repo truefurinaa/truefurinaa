@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm @TrueFurina's companion account 👋
 
-<!--
-**truefurinaa/truefurinaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a secondary account used for community support and cross-account
+activities alongside the main account.
 
-Here are some ideas to get you started:
+> ⭐ **Please follow my main account: [@TrueFurina](https://github.com/TrueFurina)**
+> All the real work, projects, and updates live there.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- 📦 Star and support open-source projects from the main account
+- 🤝 Connect with the open-source community
+- 🔄 Assist with cross-account housekeeping
+
+## Links
+
+- Main account: [github.com/TrueFurina](https://github.com/TrueFurina)
+- This account: [github.com/truefurinaa](https://github.com/truefurinaa)
