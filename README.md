@@ -1,16 +1,25 @@
 # Hi, I'm @TrueFurina's companion account 👋
 
-This is a secondary account used for community support and cross-account
-activities alongside the main account.
+This is a secondary account used for community support and open-source
+contributions alongside the main account.
 
-> ⭐ **Please follow my main account: [@TrueFurina](https://github.com/TrueFurina)**
+> ⭐ **Main account: [@TrueFurina](https://github.com/TrueFurina)**
 > All the real work, projects, and updates live there.
 
-## What I do
+## What my main account builds
 
-- 📦 Star and support open-source projects from the main account
-- 🤝 Connect with the open-source community
-- 🔄 Assist with cross-account housekeeping
+If you're into any of these, [@TrueFurina](https://github.com/TrueFurina) is worth a follow:
+
+- 🛡️ **AI Agent Security** — LLM red-teaming, agent privilege governance, prompt-injection defense
+- 🤖 **CTDE Multi-Agent Simulation** — socialized LLM-MARL collaboration research
+- 🧪 [**AGI-Distiller**](https://github.com/TrueFurina/AGI-Distiller) — a knowledge distillation system that self-evolves by reading technical content
+- 📚 [**MARS-408**](https://github.com/TrueFurina/MARS-408) — 10-agent LangGraph pipeline + FrugalRAG + GoMARL anti-hallucination
+- ⚔️ [**xihu-sword-ctf-agent**](https://github.com/TrueFurina/xihu-sword-ctf-agent) — CTF-solving AI agent
+
+## What I do here
+
+- 🤝 Contribute to open-source projects (issues, docs, small PRs)
+- 📦 Star and support projects in AI security / multi-agent / CTF spaces
 
 ## Links
 
